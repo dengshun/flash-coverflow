@@ -1,0 +1,63 @@
+﻿{
+	"settings": {
+		"backgroundColor": "0xF8973D",
+		"labelColor": "0xffffff",
+		"imageWidth": 180, 
+		"imageHeight": 180,
+		"imagePadding": 5,       
+		"coverflowSpacing": 60,
+		"startIndex": 0,
+		"startIndexInCenter": true, 
+		"coverLabelPositionY": 270,
+		"coverSlidePositionY": 270,
+		"transitionTime": 0.5,
+		"centerCoverflowZPosition": -125,
+		"reflectionAlpha": 35,
+		"reflectionRatio": 50,
+		"reflectionDistance": 0,
+		"reflectionUpdateTime": -1,
+		"reflectionDropoff": 0.75
+	},
+	"covers": [{
+			"image": "pictures/album1.jpg",
+			"title": "Test",
+			"id": 1
+		}, {
+			"image": "pictures/album2111.jpg",
+			"title": "Test",
+			"id": 2
+		}, {
+			"image": "pictures/album31111.jpg",
+			"title": "",
+			"id": 3
+		}, {
+			"image": "pictures/album4.jpg",
+			"title": "Test",
+			"id": 4
+		}, {
+			"image": "pictures/album5.jpg",
+			"title": "Test",
+			"id": 5
+		}, {
+			"image": "pictures/album6.jpg",
+			"title": "Test",
+			"id": 6
+		}, {
+			"image": "pictures/album7.jpg",
+			"title": "Test",
+			"id": 7
+		}, {
+			"image": "pictures/album8.jpg",
+			"title": "Test",
+			"id": 8
+		}, {
+			"image": "pictures/album9.jpg",
+			"title": "Test",
+			"id": 9
+		}, {
+			"image": "pictures/album10.jpg",
+			"title": "Test",
+			"id": 10
+		}
+	]
+}
